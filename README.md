@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 
-## TOOLS
+### TOOLS
 
 
 1.	PySpark – to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. I also used it to analyze the data.
@@ -9,7 +9,7 @@
 2.	pgAdmin – to create a database for our working data
 
 
-## ANALYSIS OVERVIEW
+### ANALYSIS OVERVIEW
 
 In this project we analyze Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
 
@@ -19,7 +19,7 @@ In this project, we had access to approximately 50 datasets. Each one contains r
 [](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Baby_v1_00.tsv.gz)
 
 
-## RESULTS
+### RESULTS
 
 Questions we needed to answer:
 
@@ -36,7 +36,7 @@ The results :
 ![](https://github.com/jojobear2020/Amazon_Vine_Analysis/blob/main/images/unpaid_vine_reviews_summary.PNG)
 
 
-## SUMMARY
+### SUMMARY
 
 •	As we see from the results above, only 463 reviews were paid.
 
