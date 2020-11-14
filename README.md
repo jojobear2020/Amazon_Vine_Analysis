@@ -23,11 +23,11 @@ In this project, we had access to approximately 50 datasets. Each one contains r
 
 Questions we needed to answer:
 
-*1.	How many Vine reviews and non-Vine reviews were there?
+1.	*How many Vine reviews and non-Vine reviews were there?
 
-*2.	How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+2.	*How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-*3.	What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+3.	*What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 
 The results :
