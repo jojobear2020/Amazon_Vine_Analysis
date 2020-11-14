@@ -48,10 +48,10 @@ Results :
 •	Unpaid (non-Vine) reviews surprisingly show a slightly higher results with 47.95% of all reviews being 5-star (12,033 total).
 
 
-### ADDITIONAL REVIEW
+### ADDITIONAL REVIEW & OBSERVATIONS
 
 1. Check if there is correlation between bias (high/low-ranked) review and reward (paid/unpaid)
-2. Our data is quite disproportional withnumbmer of paid review much smaller than Vine reviews
+2. Our data is quite disproportional with numbmer of paid review much smaller than Vine reviews
 3. Unexpectedly, 1 star reviews are twice higher %-wise than unpaid reviews
 
 
