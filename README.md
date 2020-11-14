@@ -38,7 +38,7 @@ The results :
 
 ![](https://github.com/jojobear2020/Amazon_Vine_Analysis/blob/main/images/unpaid_vine_reviews_summary.PNG)
 
-*Correction: All reviews in this script are labeled as Vine; however, ***only paid reviews are true Vine reviews***, *any* ***unpaid reviews are non-Vine***
+*Note: All reviews in this script are labeled as Vine; however,* ***only paid reviews are true Vine reviews***, *any* ***unpaid reviews are non-Vine***
 
 
 ### SUMMARY
