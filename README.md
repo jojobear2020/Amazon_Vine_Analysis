@@ -23,7 +23,7 @@ In this project, we had access to approximately 50 datasets. Each one contains r
 
 Questions to answer:
 
-1.	*How many Vine reviews and non-Vine reviews were there?*
+1.	*How many Vine reviews and non-Vine reviews were there?* 
 
 2.	*How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?*
 
@@ -37,6 +37,8 @@ The results :
 
 
 ![](https://github.com/jojobear2020/Amazon_Vine_Analysis/blob/main/images/unpaid_vine_reviews_summary.PNG)
+
+** NOte: all reviews are labeled as Vine, however only paid reviews were sent through Vine
 
 
 ### SUMMARY
