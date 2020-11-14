@@ -38,15 +38,15 @@ The results :
 
 ![](https://github.com/jojobear2020/Amazon_Vine_Analysis/blob/main/images/unpaid_vine_reviews_summary.PNG)
 
-*Note: All reviews in this script are labeled as Vine; however, only paid reviews are true Vine, any non-paid are non-Vine*
+*Note: All reviews in this script are labeled as Vine; however, only paid reviews are true Vine, any unpaid are non-Vine*
 
 
 ### SUMMARY
 
-•	As we see from the results above, only 463 reviews were paid.
+•	As we see from the results above, only 463 reviews were paid (Vine).
 
-•	On a contrary 25,094 reviews were unpaid. 
+•	On a contrary 25,094 reviews were unpaid (non-Vine). 
 
-•	Out of all paid reviews only 202 (43.63%) were 5-star.
+•	Out of all paid (Vine) reviews only 202 (43.63%) were 5-star.
 
-•	Unpaid reviews surprisingly show higher results with 47.95% of all reviews being 5-star (12,033 total).
+•	Unpaid (non-Vine) reviews surprisingly show a slightly higher results with 47.95% of all reviews being 5-star (12,033 total).
