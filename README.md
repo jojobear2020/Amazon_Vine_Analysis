@@ -50,7 +50,9 @@ Results :
 
 ### ADDITIONAL REVIEW
 
-Check if there is correlation between bias (high/low-ranked) review and reward (paid/unpaid)
+* Check if there is correlation between bias (high/low-ranked) review and reward (paid/unpaid)
+* Our data is quite disproportional withnumbmer of paid review much smaller than Vine reviews
+* Surprisongly, 1 star reviews are twice higher %-wise than unpaid reviews
 
 
 * **4 star**
