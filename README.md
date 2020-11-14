@@ -53,11 +53,15 @@ The results :
 
 ### ADDITIONAL REVIEW
 
+Check if there is correlation between bias (high/low-ranked) review and reward (paid/unpaid)
+
+
 * **4 star**
 
 ![4 star Vine](https://github.com/jojobear2020/Amazon_Vine_Analysis/blob/main/images/paid_vine_reviews_summary_4star.PNG)
 
 ![4 star non-Vine](https://github.com/jojobear2020/Amazon_Vine_Analysis/blob/main/images/unpaid_vine_reviews_summary_4star.PNG)
+
 
 
 * **3 star**
@@ -67,11 +71,13 @@ The results :
 ![3 star non-Vine](https://github.com/jojobear2020/Amazon_Vine_Analysis/blob/main/images/unpaid_vine_reviews_summary_3star.PNG)
 
 
+
 * **2 star**
 
 ![2 star Vine](https://github.com/jojobear2020/Amazon_Vine_Analysis/blob/main/images/paid_vine_reviews_summary_2star.PNG)
 
 ![2 star non-Vine](https://github.com/jojobear2020/Amazon_Vine_Analysis/blob/main/images/unpaid_vine_reviews_summary_2star.PNG)
+
 
 
 * **1 star**
