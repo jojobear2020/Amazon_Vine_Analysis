@@ -27,7 +27,7 @@ Questions we needed to answer:
 2.	How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 3.	What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-The results were this:
+The results :
 
 
 ![]( https://github.com/jojobear2020/Amazon_Vine_Analysis/blob/main/images/paid_vine_reviews_summary.PNG)
