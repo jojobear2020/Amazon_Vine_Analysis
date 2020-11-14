@@ -21,7 +21,7 @@ In this project, we had access to approximately 50 datasets. Each one contains r
 
 ### RESULTS
 
-Questions we needed to answer:
+Questions to answer:
 
 1.	*How many Vine reviews and non-Vine reviews were there?*
 
