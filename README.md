@@ -45,7 +45,7 @@ The results :
 
 •	As we see from the results above, only 463 reviews were paid (Vine).
 
-•	On a contrary 25,094 reviews were unpaid (non-Vine). 
+•	On a contrary, 25,094 reviews were unpaid (non-Vine). 
 
 •	Out of all paid (Vine) reviews only 202 (43.63%) were 5-star.
 
