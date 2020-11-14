@@ -24,9 +24,7 @@ We had access to approximately 50 datasets, each one contains reviews of a speci
 Questions to answer:
 
 1.	*How many Vine reviews and non-Vine reviews were there?* 
-
 2.	*How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?*
-
 3.	*What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?*
 
 
