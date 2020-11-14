@@ -33,12 +33,11 @@ Questions to answer:
 The results :
 
 
-![]( https://github.com/jojobear2020/Amazon_Vine_Analysis/blob/main/images/paid_vine_reviews_summary.PNG)
+![](https://github.com/jojobear2020/Amazon_Vine_Analysis/blob/main/images/paid_vine_reviews_summary.PNG)
 
 
 ![](https://github.com/jojobear2020/Amazon_Vine_Analysis/blob/main/images/unpaid_vine_reviews_summary.PNG)
 
-*Note: All reviews in this script are labeled as Vine; however,* ***only paid reviews are true Vine reviews***, *any* ***unpaid reviews are non-Vine***.
 
 
 ### SUMMARY
