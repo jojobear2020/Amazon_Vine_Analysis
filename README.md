@@ -38,7 +38,10 @@ The results were this:
 
 ## SUMMARY
 
-•	As we see from the results above, only 463 reviews were paid. 
+•	As we see from the results above, only 463 reviews were paid.
+
 •	On a contrary 25,094 reviews were unpaid. 
-•	Out of all paid reviews only 202 (43.63%) were 5-star
-•	Unpaid reviews surprisingly show higher results with 47.95% of all reviews being 5-star (12,033 total)
+
+•	Out of all paid reviews only 202 (43.63%) were 5-star.
+
+•	Unpaid reviews surprisingly show higher results with 47.95% of all reviews being 5-star (12,033 total).
