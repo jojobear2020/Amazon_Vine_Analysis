@@ -4,9 +4,15 @@
 ### TOOLS
 
 
-1.	**PySpark** – to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. It was also used to analyze the data.
+1.	**PySpark**:
+* to perform the ETL process to extract the dataset
+* transform the data
+* connect to an AWS RDS instance
+* load the transformed data into pgAdmin
+* analyze the data.
 
-2.	**pgAdmin** – to create a database for our working data
+2.	**pgAdmin**: 
+* to create a database for our working data for further analysis
 
 
 ### ANALYSIS OVERVIEW
