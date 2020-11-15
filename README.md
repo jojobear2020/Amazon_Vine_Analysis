@@ -11,6 +11,8 @@ We had access to approximately 50 datasets, each one contains reviews of a speci
 
 [](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Baby_v1_00.tsv.gz)
 
+________________
+
 
 ### TOOLS
 
@@ -25,7 +27,7 @@ We had access to approximately 50 datasets, each one contains reviews of a speci
 2.	**pgAdmin**: 
 * to create the database for our working data for further analysis
 
-
+________________________
 
 ### RESULTS
 
@@ -50,8 +52,11 @@ ____________
 ### SUMMARY
 
 •	As we see from the results above, only 463 reviews were paid (Vine).
+
 •	On a contrary, 25,094 reviews were unpaid (non-Vine).
+
 •	Out of all paid (Vine) reviews only 202 (43.63%) were 5-star.
+
 •	Unpaid (non-Vine) reviews surprisingly show a slightly higher results with 47.95% of all reviews being 5-star (12,033 total).
 
 ____________
