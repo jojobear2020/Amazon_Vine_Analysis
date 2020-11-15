@@ -53,7 +53,7 @@ Results :
 Check if there is any correlation between bias (high/low-ranked) review and reward (paid/unpaid).
 
 1.  Our data is quite disproportional with the number of paid Vine reviews much smaller than unpaid non-Vine reviews.
-2. Unexpectedly, paid Vine 1-star reviews are 2x higher %-wise than unpaid non-Vine reviews.
+2. Percentage results vary; however, the lowest 1-star reviews are 2x higher %-wise in paid Vine 1-star reviews vs. unpaid non-Vine reviews.
 
 
 * **4 star**
