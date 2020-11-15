@@ -20,7 +20,7 @@
 In this project we analyzed Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
 
 
-We had access to approximately 50 datasets, each one contains reviews of a specific product. For this analysis, I selected a datasaet containing reviews of the baby products.
+We had access to approximately 50 datasets, each one contains reviews of a specific product. For this analysis, I selected dataset containing reviews of the baby products.
 
 [](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Baby_v1_00.tsv.gz)
 
