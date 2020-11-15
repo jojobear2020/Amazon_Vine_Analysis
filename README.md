@@ -16,14 +16,14 @@ We had access to approximately 50 datasets, each one contains reviews of a speci
 
 
 1.	**PySpark**:
-* to perform the ETL process to extract the dataset
+* perform the ETL process to extract the dataset
 * transform the data
-* connect to an AWS RDS instance
+* connect to an AWS RDS
 * load the transformed data into pgAdmin
-* analyze the data.
+* analyze the data
 
 2.	**pgAdmin**: 
-* to create a database for our working data for further analysis
+* to create the database for our working data for further analysis
 
 
 
@@ -48,11 +48,8 @@ Results :
 ### SUMMARY
 
 •	As we see from the results above, only 463 reviews were paid (Vine).
-
 •	On a contrary, 25,094 reviews were unpaid (non-Vine). 
-
 •	Out of all paid (Vine) reviews only 202 (43.63%) were 5-star.
-
 •	Unpaid (non-Vine) reviews surprisingly show a slightly higher results with 47.95% of all reviews being 5-star (12,033 total).
 
 
@@ -61,14 +58,8 @@ Results :
 Check if there is any correlation between bias (high/low-ranked) review and reward (paid/unpaid).
 
 1.  Our data is quite disproportional with the number of paid Vine reviews much smaller than unpaid non-Vine reviews.
-
-
 2. Our results vary; however, the lowest 1-star reviews are 2x higher %-wise in paid Vine 1-star reviews vs. unpaid non-Vine reviews (see the bottom picture).
-
-
 3. Given the results, we may need more data to see is there is any strong bias in paid vs non-paid reviews. 
-
-
 4. Another option to see if there is any bias is to compare our results from this dataset with the results from one or few more datasets for different product types (e.a. - sports, software, shoes, pet products, etc.).
 
 
