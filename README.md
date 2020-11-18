@@ -110,10 +110,23 @@ ________________________
     
     ### pgAdmin Tables
     
-    1. ![customer_table](https://github.com/jojobear2020/Amazon_Vine_Analysis/blob/main/images/customers_table_detail.PNG)
+ 1. vine_table
     
-    2. ![products_table](https://github.com/jojobear2020/Amazon_Vine_Analysis/blob/main/images/products_table_detail.png)
+     ![vine_table](https://github.com/jojobear2020/Amazon_Vine_Analysis/blob/main/images/vine_table_detail.PNG)
+     
+     
+ 2. customer_table
     
-    3. ![vine_table](https://github.com/jojobear2020/Amazon_Vine_Analysis/blob/main/images/vine_table_detail.PNG)
     
-    4. ![review_id_table](https://github.com/jojobear2020/Amazon_Vine_Analysis/blob/main/images/review_id_table_detail.png)
+    ![customer_table](https://github.com/jojobear2020/Amazon_Vine_Analysis/blob/main/images/customers_table_detail.PNG)
+    
+    
+ 3. product_table
+    
+    
+    ![products_table](https://github.com/jojobear2020/Amazon_Vine_Analysis/blob/main/images/products_table_detail.png)
+    
+ 
+ 4. review_id_table  
+ 
+    ![review_id_table](https://github.com/jojobear2020/Amazon_Vine_Analysis/blob/main/images/review_id_table_detail.png)
