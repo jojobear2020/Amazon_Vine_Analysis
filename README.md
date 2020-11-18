@@ -67,9 +67,9 @@ ____________
 Check if there is any correlation between bias (high/low-ranked) review and reward (paid/unpaid).
 
 1.  Our data is quite disproportional with the number of paid Vine reviews much smaller than unpaid non-Vine reviews.
-2. Our results vary; however, the lowest 1-star reviews are 2x higher %-wise in paid Vine 1-star reviews vs. unpaid non-Vine reviews (see the bottom picture).
+2. Our results vary; however, the lowest 1-star reviews are 2x higher %-wise in paid Vine 1-star reviews vs. unpaid non-Vine reviews (see the bottom picture in this section).
 3. Given the results, we may need more data to see is there is any strong bias in paid vs non-paid reviews. 
-4. Another option to see if there is any bias is to compare our results from this dataset with the results from one or few more datasets for different product types (e.a. - sports, software, shoes, pet products, etc.).
+4. Another option to see if there is any bias is to compare our results from this dataset with the results from one or few more datasets for different product types (e.a. - add data for sports, software, shoes, pet products, etc.).
 
 
 ________________________
